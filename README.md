@@ -1,3 +1,3 @@
-#Test README
+#README
 
 This is my first repo.
